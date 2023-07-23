@@ -20,17 +20,19 @@
 <img src="./public/images/desarrollo.taller.5.png" alt="punto 5"> 
 
 <h2> Punto 6: Usuario mayor o menor de edad</h2>
-<img src="./public/images/desarrollo.taller.6.png" alt="punto 6">  
+<img src="./public/images/desarrollo.taller.6.png" alt="punto 6">   
 
 <h2> Punto 7: Operaciones básicas entre 2 números</h2>
 <img src="./public/images/desarrollo.taller.7.png" alt="punto 7">   
 
 <h2> Punto 8: Calculo de pago en Bolera con SWITCH</h2>
+<img src="./public/images/desarrollo.taller.8.png" alt="punto 8">  
 
 <h2> Punto 9: Tabla del 0 al 30 WHILE</h2>
 <img src="./public/images/desarrollo.taller.9.png" alt="punto 9">  
 
 <h2> Punto 10: Números pares del 0 al 100 WHILE</h2>
+<img src="./public/images/desarrollo.taller.10.png" alt="punto 10">   
 
 <h2> Punto 11: Números pares del 0 al 100 For</h2>
 <img src="./public/images/desarrollo.taller.11.png" alt="punto 11">   
@@ -45,3 +47,5 @@
 <img src="./public/images/desarrollo.taller.14.png" alt="punto 14">     
 
 <h2> Punto 15: Operaciones básicas entre 2 números con funciones</h2>
+<img src="./public/images/desarrollo.taller.15.png" alt="punto 15">    
+
