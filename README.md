@@ -37,8 +37,8 @@
 <h2> Punto 11: Números pares del 0 al 100 For</h2>
 <img src="./public/images/desarrollo.taller.11.png" alt="punto 11">   
 
-
 <h2> Punto 12: Tabla del 0 al 30 FOR</h2>
+<img src="./public/images/desarrollo.taller.12.png" alt="punto 12">  
 
 <h2> Punto 13: Suma de un arreglo</h2>
 <img src="./public/images/desarrollo.taller.13.png" alt="punto 13">    
@@ -48,4 +48,5 @@
 
 <h2> Punto 15: Operaciones básicas entre 2 números con funciones</h2>
 <img src="./public/images/desarrollo.taller.15.png" alt="punto 15">    
+
 
